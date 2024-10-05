@@ -18,3 +18,5 @@ public class StudentManagementApplication {
 		return "Hello World";
 	}
 }
+
+//コメントを追加
